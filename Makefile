@@ -64,7 +64,7 @@ spellcheck:
 	done
 
 zip:
-	zip -r $(TARGET_ZIP).zip . -x build/\* $(TARGET).pdf
+	zip -r $(TARGET_ZIP).zip . -x build/\* .git/\*  $(TARGET).pdf
 
 clean:
 	-rm -rf build
