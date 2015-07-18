@@ -144,8 +144,8 @@ Command line arguments are handled via the `sys.argv` list (more on that later),
 	</div>
 	<div class="info">
 		A Python script can be imported into another using the 'import' directive. <br />
-		Multiple modules into a single directory form a Package, which can be imported (like the 'sys' package above). <br /><br />
-		
+		Multiple modules into a single directory form a Package, which can be imported (like the 'sys' package above).
+		<br /><br />
 		Python has built-in an huge number of packages. If you want to do something, 
 		probably the Python standard library has you covered.<br />
 		And if it doesn't, there is the community package repository.
